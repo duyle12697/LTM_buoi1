@@ -1,0 +1,6 @@
+D:\DUY\hoc c\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\DUY\hoc c\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\DUY\hoc c\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\DUY\hoc c\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\DUY\hoc c\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\DUY\hoc c\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
